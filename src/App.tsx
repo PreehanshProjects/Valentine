@@ -248,7 +248,7 @@ export default function App() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 2, delay: 1.2 }}
           >
-            <br /><br /><br />
+            <br /><br /><br /><br />
             My desire for beauty grows with each day,<br />
             My dearest love, you take my breath away.<br />
             Your eyes like emeralds, sparkling so bright,<br />
